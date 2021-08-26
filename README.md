@@ -2,6 +2,7 @@
 Swing の GridLayout の単純画面でメール送信
 
 [JavaMail](https://javaee.github.io/javamail/)
+
 [JavaBeans Activation Framework](https://mvnrepository.com/artifact/com.sun.activation/javax.activation)
 
 ## 2分割の JPanel の上半分に JPanel を置いてその中に JTextField を並べ、下の半分に JTextArea を置く
