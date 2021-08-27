@@ -3,7 +3,7 @@ Swing の [GridLayout](https://docs.oracle.com/javase/jp/11/docs/api/java.deskto
 
 [JavaMail](https://javaee.github.io/javamail/) => javax.mail.jar
 
-[JavaBeans Activation Framework](https://mvnrepository.com/artifact/com.sun.activation/javax.activation)
+[JavaBeans Activation Framework](https://mvnrepository.com/artifact/com.sun.activation/javax.activation) => javax.activation-1.2.0.jar
 
 ## 2分割の JPanel の上半分に JPanel を置いてその中に JTextField を並べ、下の半分に JTextArea を置く
 
