@@ -1,7 +1,7 @@
 # java-swing-send-mail
 Swing の [GridLayout](https://docs.oracle.com/javase/jp/11/docs/api/java.desktop/java/awt/GridLayout.html) の単純画面でメール送信
 
-[JavaMail](https://javaee.github.io/javamail/)
+[JavaMail](https://javaee.github.io/javamail/) => javax.mail.jar
 
 [JavaBeans Activation Framework](https://mvnrepository.com/artifact/com.sun.activation/javax.activation)
 
